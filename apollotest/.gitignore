@@ -2,4 +2,11 @@ target\
 .idea\
 inspectionProfiles\
 libraries\
-libraries\
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+target/
+.idea/inspectionProfiles\
+.idea\
